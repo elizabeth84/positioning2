@@ -1,0 +1,22 @@
+.exterior{
+	width: 400px;
+	height: 400px;
+	background: orange;
+	position:static;
+}
+.intermedio{
+	width: 200px;
+	height: 200px;
+	background: purple;
+	position:relative;
+	left:100px;
+	bottom: 300px; 
+}
+.interior{
+	width:50px;
+	height:50px;
+	background:yellow;
+	position:absolute;
+	top:108px;
+	left:108px;
+}
